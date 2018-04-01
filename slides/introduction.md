@@ -33,6 +33,6 @@ Note:
 
 ## Static type checks
 
-At compile time
-
 ![Type mismatch](assets/type-mismatch.png)
+
+At compile time
