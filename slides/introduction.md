@@ -14,6 +14,6 @@ Generate JavaScript with great performance and no runtime exceptions.
 
 +++
 
-Compiles to javascript
+Compiles to
 
 ![Javascript](assets/javascript.png)
