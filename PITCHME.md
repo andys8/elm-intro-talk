@@ -1,2 +1,4 @@
 ---?include=slides/introduction.md
+---?include=slides/features.md
+---?include=slides/architecure.md
 ---?include=slides/summary.md
