@@ -11,6 +11,6 @@
 +++
 ![Twitter tplug](assets/twitter-elm-job.png)
 
-<span style="font-size:0.6em; color:gray">
-https://twitter.com/tpflug/status/908770909305090048
+<span class="small-text">
+@fa[twitter] https://twitter.com/tpflug/status/908770909305090048
 </span>

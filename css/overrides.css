@@ -1,4 +1,4 @@
-#theme-footer {
+#title-footer {
   background: rgba(0, 0, 0, 0);
 }
 
@@ -6,3 +6,8 @@
   border: 0;
   box-shadow: none;
 }
+
+.reveal .small-text{
+  font-size:40%
+}
+

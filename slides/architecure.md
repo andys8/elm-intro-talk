@@ -12,8 +12,9 @@ Inspired Dan Abramov to create **Redux**
 
 ![Architecure Heartwarming Drawing](assets/architecture-drawing.jpg)
 
-
-<https://twitter.com/rtfeldman/status/973382389035618304>
+<span class="small-text">
+@fa[twitter] https://twitter.com/rtfeldman/status/973382389035618304
+</span>
 
 +++
 Model view update
