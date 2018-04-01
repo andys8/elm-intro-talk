@@ -4,9 +4,16 @@
 
 +++
 
-## A delightful language for reliable webapps
+## A delightful language
 
-Generate JavaScript with great **performance** and **no runtime exceptions**.
+For reliable webapps
+
+
++++
+
+Generate JavaScript with
+
+**great performance** and **no runtime exceptions**.
 
 +++
 
