@@ -67,4 +67,8 @@ Explicit data flow
 
 Maybe
 
+---
 
+# HTML
+
+Comparison to JSX
