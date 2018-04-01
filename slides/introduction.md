@@ -6,7 +6,7 @@
 
 ## A delightful language for reliable webapps
 
-Generate JavaScript with great performance and no runtime exceptions.
+Generate JavaScript with great **performance** and **no runtime exceptions**.
 
 +++
 
@@ -17,3 +17,7 @@ Generate JavaScript with great performance and no runtime exceptions.
 Compiles to
 
 ![Javascript](assets/javascript.png)
+
+Note:
+* Webpack and JS build steps can be used
+* Javascript integration
