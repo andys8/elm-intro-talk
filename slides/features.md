@@ -12,12 +12,9 @@ Data in, data out
 
 +++
 
-No side effects
-
-+++
-
-Referential transparency
-Testable
+- No side effects |
+- Referential transparency |
+- Testable |
 
 +++
 

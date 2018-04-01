@@ -3,3 +3,4 @@ background: assets/background-white.png
 theme: white
 footnote: ""
 published: true
+theme-override: css/overrides.css

@@ -1,0 +1,8 @@
+#theme-footer {
+  background: rgba(0, 0, 0, 0);
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
