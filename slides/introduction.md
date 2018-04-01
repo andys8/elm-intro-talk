@@ -24,27 +24,8 @@ Note:
 
 +++
 
-## Compile time static type checks
+## Static type checks
 
-```elm
-result =
-    1 + 2 + "three"
-```
+At compile time
 
-+++
-
-```shell
-TYPE MISMATCH
-
-The right side of (+) is causing a type mismatch.
-
-(+) is expecting the right side to be a:
-number
-
-But the right side is:
-String
-
-Hint: To append strings in Elm, you need to use the (++) operator, not (+). http://package.elm-lang.org/packages/elm-lang/core/latest/Basics#++
-
-Hint: With operators like (+) I always check the left side first. If it seems fine, I assume it is correct and check the right side. So the problem may be in how the left and right arguments interact.
-```
+![Type mismatch](assets/type-mismatch.png)
